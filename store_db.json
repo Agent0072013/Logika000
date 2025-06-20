@@ -1,20 +1,20 @@
 [
     {
-        "title":"Aplle Iphone 19 ",
-        "price": 9657899,
-        "image": "",
+        "title":"Aplle Iphone 17 ",
+        "price": 7777899,
+        "image": "iphone17-specs.jpg",
         "description": "Хто не купить айфон19 той ніщий "
     },
     {
         "title":"Aplle Iphone 18 ",
         "price": 8673890,
-        "image": "",
+        "image": "Iphone18.jpg",
         "description": "ти маєш його купити томущо я так сказав "
     },
     {
         "title":"Aplle Iphone 20",
         "price": 9999999,
-        "image": "",
+        "image": "Iphone20.jpg",
         "description": "якщо ти думаєш що ти крутий  тоді купи айфон20 "
     }
 
